@@ -3,7 +3,7 @@
   "apiBaseUrl": "http://localhost:3000/api",
   "assessment": {
     "additionalTime": 300,
-    "totalVideos": 4,
+    "totalVideos": 3,
     "rankingTime": 1200
   },
   "googleDrive": {
