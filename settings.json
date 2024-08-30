@@ -3,14 +3,10 @@
   "apiBaseUrl": "http://localhost:3000/api",
   "assessment": {
     "additionalTime": 300,
-    "totalVideos": 3,
+    "totalVideos": 4,
     "rankingTime": 1200
   },
   "googleDrive": {
     "folderId": "1ZTlDj2DH6YQhQHajLLzfzXt8wBOlg-TB"
-  },
-  "admin": {
-    "username": "admin",
-    "password": "test"
   }
 }
