@@ -1,5 +1,5 @@
 {
-  "appName": "DDN Legends Judge Assessment",
+  "appName": "DDN Legends Mock Judging Assessment",
   "apiBaseUrl": "http://localhost:3000/api",
   "assessment": {
     "additionalTime": 300,
